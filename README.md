@@ -1,2 +1,2 @@
 # first-index-training
-training idea
+training
